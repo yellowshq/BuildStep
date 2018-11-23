@@ -1,0 +1,4 @@
+1：在PC上进行第二步：生成lua的pb
+该操作将会生成到E:\zhmj\Assets\Sources\Product\lua
+将该文件下pb的上传
+2：E:\zhmj\Assets\Scripts\LuaScripts文件下的protoMap.lua上传
